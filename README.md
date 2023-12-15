@@ -1,2 +1,3 @@
 # MiscResources
-Miscellaneous Plots and Figured used in my work. For linking purposes only
+
+![Boxplot of JAWS Loading Times](https://github.com/mrhunsaker/MiscResources/blob/main/ComputerRBDisplaySpecsTVIFig1.html)
